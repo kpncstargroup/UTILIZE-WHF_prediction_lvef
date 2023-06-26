@@ -1,2 +1,3 @@
-# UTILIZE-WHF_prediction_lvef
-Developing Clinical Risk Prediction Models for Worsening Heart Failure Events and Death by Left Ventricular Ejection Fraction 
+# Developing clinical risk prediction models for worsening heart failure events and death by left ventricular ejection fraction
+
+## Overview
